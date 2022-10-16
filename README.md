@@ -4,7 +4,7 @@ Repositorio para ciclo 4 de misiontic 2022 UdeA
 > El software de Tienda o emprendimiento virtual sera de:
 
 
-### Integrantes de Equipo
+### Integrantes de Equipo ###
 
 1.  Nombre: Diego Hernando Rey Rodriguez
     Rol: Scrum Master 
@@ -23,7 +23,7 @@ Repositorio para ciclo 4 de misiontic 2022 UdeA
     Grupo: 9-10
 
 
-### Historias de usuario
+### Historias de usuario ###
 
 Historia de usuario: HU_01
 Como administrador, cliente
