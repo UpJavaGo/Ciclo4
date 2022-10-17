@@ -14,8 +14,10 @@ Repositorio para ciclo 4 de misiontic 2022 UdeA
     Rol: Product Owner
     Grupo: 11-12
 
-3.  Rol: Analista
-
+3.  Nombre: Juan Camilo Cabrera Gil
+    Rol: Analista
+    Grupo: 9-10
+    
 4.  Nombre: Andres Daniel Herrera Prada
     Rol: DBA
     Grupo:  1-2
