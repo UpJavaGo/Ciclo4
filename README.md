@@ -17,10 +17,10 @@ Repositorio para ciclo 4 de misiontic 2022 UdeA
 3.  Nombre: Juan Camilo Cabrera Gil
     Rol: Analista
     Grupo: 9-10
-
-4.  Nombre: Andres Daniel Herrar Prada
+    
+4.  Nombre: Andres Daniel Herrera Prada
     Rol: DBA
-    Grupo: 1-2
+    Grupo:  1-2
 
 5.  Nombre: Lian Alejandro Rincon Amaya
     Rol: Desarrollador
