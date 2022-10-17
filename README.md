@@ -16,8 +16,10 @@ Repositorio para ciclo 4 de misiontic 2022 UdeA
 
 3.  Rol: Analista
 
-4.  Rol: DBA
-
+4.  Nombre: Andres Daniel Herrera Prada 
+    Rol: DBA
+    Grupo: 1-2
+    
 5.  Nombre: Lian Alejandro Rincon Amaya
     Rol: Desarrollador
     Grupo: 9-10
