@@ -1,7 +1,7 @@
 # Ciclo4
 Repositorio para ciclo 4 de misiontic 2022 UdeA
 
-> El software de Galeria virtual sera de:
+> El software de Galeria virtual constará de:
 
 
 ### Integrantes de Equipo ###
